@@ -4,7 +4,7 @@
 - Progressive Multi-Jittered
 
 # Copyright
-This crate wraps C++ code for the Halton and Sobol sequences by Leonhard Gruenschloss
+This crate wraps C++ code for the Halton and Sobol sequences by Leonhard Gruenschloss http://gruenschloss.org/
 
 Copyright (c) 2012 Leonhard Gruenschloss (leonhard@gruenschloss.org) 
 
